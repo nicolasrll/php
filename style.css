@@ -1,0 +1,18 @@
+body {
+	/*background-color: #4682B4;*/
+	color: #F0E68C;
+	background-color: #4682B4;
+}
+
+.pseudo {
+	font-weight: bold;
+}
+
+form  {
+	text-align: center;
+
+}
+
+input, textarea {
+	background-color: #F5F5DC;
+}
